@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1374613440 source:c:\users\admin\desktop\trabalhoarvb+\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1374613440 
+
+1375731916 source:/home/gustavo/Documentos/UFF/4 - Período/Estrutura de Dados II/Códigos C/Trabalho final/TrabalhoArvB+/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1374808394 /home/gustavo/Documentos/UFF/4 - Período/Estrutura de Dados II/Códigos C/Trabalho final/TrabalhoArvB+/funcoes_abm.h
+
+1375730677 /home/gustavo/Documentos/UFF/4 - Período/Estrutura de Dados II/Códigos C/Trabalho final/TrabalhoArvB+/estruturaEfuncoes_abm.h
+
